@@ -1,5 +1,5 @@
 body {
-  background-color: #444444;
+  background-image: url('https://www.churchpaper.com/wp-content/uploads/2021/09/ivory-linen.jpg');
   color: #ddddddd;
   font-family: Arial, Helvetica, sams-serif;
   margin: 10% 20%;
@@ -8,7 +8,7 @@ body {
 .exp-header {
  text-align: center;
 text-transform: uppercase;
-  border-top: 1px solid #dddddddd;
-  border-bottom: 1px solid #dddddd;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   background-color: rgba(0,0,0 0.1)
 }
